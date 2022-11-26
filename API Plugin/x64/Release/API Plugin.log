@@ -1,0 +1,382 @@
+﻿  CoopMod2.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  CustomStageSelect.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\customstageselect.cpp(19): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\customstageselect.cpp(19): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\customstageselect.cpp(145): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\customstageselect.cpp(150): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\customstageselect.cpp(152): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\customstageselect.cpp(152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  EditorGUI.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(53): warning C4101: 'v11': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(52): warning C4101: 'v10': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(49): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(47): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(45): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(50): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(20): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\commands.h(21): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\commands.h(146): warning C4101: 'v7': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(159): warning C4101: 'v16': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(150): warning C4101: 'v10': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(147): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(145): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(158): warning C4101: 'v15': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(143): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(157): warning C4101: 'v14': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(148): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(82): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(122): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(186): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(194): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\mouselook.h(68): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\gameobjectcreator.h(26): warning C4101: 'v5_': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\componentgui.h(63): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\componentgui.h(85): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(164): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(318): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(318): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(367): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(479): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(559): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(570): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1148): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1184): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1304): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1333): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1334): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1336): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1345): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1408): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1476): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1481): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1485): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1486): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1492): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1496): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1500): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1518): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1528): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1537): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1553): warning C4101: 'msg': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\editorgui.cpp(1576): warning C4101: 'msg': variable local sin referencia
+  FrameworkFont.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\frameworkfont.cpp(53): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\frameworkfont.cpp(83): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  LuaMachine.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(53): warning C4101: 'v11': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(52): warning C4101: 'v10': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(49): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(47): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(45): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(50): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(20): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\commands.h(21): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\commands.h(146): warning C4101: 'v7': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(159): warning C4101: 'v16': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(150): warning C4101: 'v10': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(147): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(145): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(158): warning C4101: 'v15': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(143): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(157): warning C4101: 'v14': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(148): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(82): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(122): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(186): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(194): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(17): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(65): warning C4244: 'argumento': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(85): warning C4244: 'inicializando': conversión de 'lua_Number' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(111): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(112): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(113): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(125): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(126): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(127): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(139): warning C4244: 'inicializando': conversión de 'lua_Number' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(140): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(141): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(142): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(151): warning C4244: 'inicializando': conversión de 'lua_Number' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(152): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(153): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(154): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(162): warning C4244: 'argumento': conversión de '__int64' a 'lua_Number'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(176): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(177): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(178): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(179): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(188): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(189): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(190): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(199): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(200): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(201): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(218): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(219): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(220): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(226): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(261): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(262): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(263): warning C4244: 'inicializando': conversión de 'lua_Number' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\luamachine.cpp(269): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Main.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(53): warning C4101: 'v11': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(52): warning C4101: 'v10': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(49): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(47): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(45): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(50): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(20): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\commands.h(21): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\commands.h(146): warning C4101: 'v7': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(159): warning C4101: 'v16': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(150): warning C4101: 'v10': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(147): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(145): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(158): warning C4101: 'v15': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(143): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(157): warning C4101: 'v14': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(148): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(82): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(122): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(186): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(194): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccstageinfodata.h(25): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\ccstageinfodata.h(25): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(14): warning C4101: 'v0': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(17): warning C4101: 'v3': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(23): warning C4101: 'hash': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(24): warning C4101: 'a2': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(20): warning C4101: 'v7': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(21): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(19): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(18): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(15): warning C4101: 'v1': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(22): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\mouselook.h(68): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\gameobjectcreator.h(26): warning C4101: 'v5_': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccscenezealot.h(72): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccscenezealot.h(74): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccscenezealot.h(77): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\main.cpp(89): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\main.cpp(89): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\main.cpp(195): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  ccGameDrawEnv.cpp
+c:\users\santi\source\repos\kuro\api plugin\vector3.h(78): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\vector3.h(91): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  ccSceneBoss12_Phase01.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  ccScenePatcher.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccscenepatcher.cpp(12): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ccSceneZealot.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(14): warning C4101: 'v0': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(17): warning C4101: 'v3': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(23): warning C4101: 'hash': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(24): warning C4101: 'a2': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(20): warning C4101: 'v7': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(21): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(19): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(18): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(15): warning C4101: 'v1': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\restoredebugfont.h(22): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\mouselook.h(68): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(53): warning C4101: 'v11': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(52): warning C4101: 'v10': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(49): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(47): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(45): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccentrymodeltest.h(50): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(20): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\commands.h(21): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\commands.h(146): warning C4101: 'v7': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(159): warning C4101: 'v16': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(150): warning C4101: 'v10': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(147): warning C4101: 'v8': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(145): warning C4101: 'v6': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(158): warning C4101: 'v15': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(143): warning C4101: 'v4': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(157): warning C4101: 'v14': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\commands.h(148): warning C4101: 'v9': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(82): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(98): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(122): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(186): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\editorbase.h(194): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\gameobjectcreator.h(26): warning C4101: 'v5_': variable local sin referencia
+c:\users\santi\source\repos\kuro\api plugin\ccscenezealot.h(72): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccscenezealot.h(74): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccscenezealot.h(77): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccscenezealot.cpp(57): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\santi\source\repos\kuro\api plugin\ccscenezealot.cpp(64): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccscenezealot.cpp(153): warning C4065: la instrucción switch contiene etiquetas 'default' pero no etiquetas 'case'
+  ccStageInfoData.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\ccstageinfodata.h(25): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\ccstageinfodata.h(25): warning C4309: 'inicializando': truncamiento de valor constante
+  info_mision.cpp
+c:\users\santi\source\repos\kuro\api plugin\patternscan.h(34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(193): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1438): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1439): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1464): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1497): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1508): warning C4309: 'inicializando': truncamiento de valor constante
+c:\users\santi\source\repos\kuro\api plugin\utilities.h(1544): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+     Creando biblioteca C:\Users\santi\source\repos\Kuro\x64\Release\FrameworkEditor.lib y objeto C:\Users\santi\source\repos\Kuro\x64\Release\FrameworkEditor.exp
+LINK : warning LNK4098: la biblioteca predeterminada'LIBCMT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  3 of 2720 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  API Plugin.vcxproj -> C:\Users\santi\source\repos\Kuro\x64\Release\FrameworkEditor.dll

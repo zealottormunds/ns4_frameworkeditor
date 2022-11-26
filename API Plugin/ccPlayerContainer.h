@@ -1,0 +1,30 @@
+#pragma once
+#include "ccPlayerMain.h"
+
+class ccPlayerContainer
+{
+public:
+	__int64 m_duelTeamA; // 0x00 to 0x08
+	__int64 m_duelTeamB; // 0x08 to 0x10
+	__int64 m_duelTeamC; // 0x10 to 0x18
+	char padding0[0x18]; // 0x18 to 0x30
+	ccPlayerMain* m_playerController; // 0x30 to 0x38
+	float m_health; // 0x38 to 0x3C
+	float m_maxHealth; // 0x3C to 0x40
+	float m_chakra; // 0x40 to 0x44
+	float m_maxChakra; // 0x44 to 0x48
+	float m_substitution; // 0x48 to 0x4C
+	float m_maxSubstitution; // 0x4C to 0x50
+	char padding1[0x04]; // 0x50 to 0x54
+	float m_supportGauge; // 0x54 to 0x58
+	float m_armor; // 0x58 to 0x5C
+	float m_maxArmor; // 0x5C to 0x60
+	int m_itemUp; // 0x60 to 0x64
+	int m_itemDown; // 0x64 to 0x68
+	int m_itemLeft; // 0x68 to 0x6C
+	int m_itemRight; // 0x6C to 0x70
+	int m_itemUpCount; // 0x70 to 0x74
+	int m_itemDownCount; // 0x74 to 0x78
+	int m_itemLeftCount; // 0x78 to 0x7C
+	int m_itemRightCount; // 0x7C to 0x80
+};
